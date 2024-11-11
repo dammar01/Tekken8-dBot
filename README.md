@@ -11,6 +11,10 @@ This is a Discord bot designed to help Tekken 8 players quickly find movesets an
 
 ## Setup and Installation
 
+### Prerequisites
+
+Before running the bot, you need to set up and run the [Tekken8-API](https://github.com/dammar01/Tekken8-API) in your local.
+
 ### Installation Steps
 
 1. Clone the repository:
