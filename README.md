@@ -2,6 +2,11 @@
 
 This is a Discord bot designed to help Tekken 8 players quickly find movesets and notations for their characters using the [Tekken8-API](https://github.com/dammar01/Tekken8-API). The bot provides features to search for moves based on notation and character names, and it retrieves detailed information about moves such as startup frames, damage, properties, and more.
 
+# Disclaimer
+This application is not affiliated with, endorsed, sponsored, or specifically approved by Bandai Namco Entertainment Inc., the creators and publishers of the Tekken series. Tekken8-dBot are fan-made projects created for informational and entertainment purposes only. All game-related content, data, and assets are the property of their respective owners.
+
+These tools do not provide official data from Bandai Namco and are not intended to infringe on any copyrights or trademarks. Any use of these applications is at the user’s own discretion, and we do not guarantee the accuracy or completeness of any game-related information provided.
+
 ## Features
 
 - **Find Moveset**: Allows users to search for Tekken 8 movesets using a character's name and move notation.
